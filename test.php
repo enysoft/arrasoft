@@ -1,3 +1,3 @@
 <?php
-	primul test
+	primul test ceva nou
 ?>
