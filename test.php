@@ -1,0 +1,3 @@
+<?php
+	primul test
+?>
