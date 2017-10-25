@@ -2,5 +2,5 @@
 	primul test ceva nou
 	mada
 
-	altaceva madalina
+	altaceva cristi
 ?>
