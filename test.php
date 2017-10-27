@@ -5,4 +5,5 @@
 	altaceva cristi
 
 	altceva mada
+	altceva modificat din console
 ?>
